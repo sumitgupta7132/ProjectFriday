@@ -1,2 +1,2 @@
 # ProjectFriday
-Friday is virtual(Expert System) assistance Using python
+Friday is virtual personal assistance , it is generally a expert system  which work on certain conditions
